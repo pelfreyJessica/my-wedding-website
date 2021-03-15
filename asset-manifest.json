@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-wedding-website-2/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/my-wedding-website-2/static/js/main.b79d29e1.chunk.js",
+    "main.js.map": "/my-wedding-website-2/static/js/main.b79d29e1.chunk.js.map",
+    "runtime-main.js": "/my-wedding-website-2/static/js/runtime-main.0d026272.js",
+    "runtime-main.js.map": "/my-wedding-website-2/static/js/runtime-main.0d026272.js.map",
+    "static/js/2.d239b9a6.chunk.js": "/my-wedding-website-2/static/js/2.d239b9a6.chunk.js",
+    "static/js/2.d239b9a6.chunk.js.map": "/my-wedding-website-2/static/js/2.d239b9a6.chunk.js.map",
+    "static/js/3.b5b6d24c.chunk.js": "/my-wedding-website-2/static/js/3.b5b6d24c.chunk.js",
+    "static/js/3.b5b6d24c.chunk.js.map": "/my-wedding-website-2/static/js/3.b5b6d24c.chunk.js.map",
+    "index.html": "/my-wedding-website-2/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/my-wedding-website-2/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d239b9a6.chunk.js.LICENSE.txt": "/my-wedding-website-2/static/js/2.d239b9a6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-wedding-website-2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d026272.js",
+    "static/js/2.d239b9a6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b79d29e1.chunk.js"
+  ]
+}

@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-wedding-website/static/css/main.062acd4c.chunk.css",
-    "main.js": "/my-wedding-website/static/js/main.72f0bc9d.chunk.js",
-    "main.js.map": "/my-wedding-website/static/js/main.72f0bc9d.chunk.js.map",
-    "runtime-main.js": "/my-wedding-website/static/js/runtime-main.c8418e65.js",
-    "runtime-main.js.map": "/my-wedding-website/static/js/runtime-main.c8418e65.js.map",
-    "static/js/2.fcecddef.chunk.js": "/my-wedding-website/static/js/2.fcecddef.chunk.js",
-    "static/js/2.fcecddef.chunk.js.map": "/my-wedding-website/static/js/2.fcecddef.chunk.js.map",
-    "static/js/3.3e0e39ed.chunk.js": "/my-wedding-website/static/js/3.3e0e39ed.chunk.js",
-    "static/js/3.3e0e39ed.chunk.js.map": "/my-wedding-website/static/js/3.3e0e39ed.chunk.js.map",
+    "main.css": "/my-wedding-website/static/css/main.1cfa1240.chunk.css",
+    "main.js": "/my-wedding-website/static/js/main.1b5a08a5.chunk.js",
+    "main.js.map": "/my-wedding-website/static/js/main.1b5a08a5.chunk.js.map",
+    "runtime-main.js": "/my-wedding-website/static/js/runtime-main.fa18c65c.js",
+    "runtime-main.js.map": "/my-wedding-website/static/js/runtime-main.fa18c65c.js.map",
+    "static/js/2.659e4803.chunk.js": "/my-wedding-website/static/js/2.659e4803.chunk.js",
+    "static/js/2.659e4803.chunk.js.map": "/my-wedding-website/static/js/2.659e4803.chunk.js.map",
+    "static/js/3.cbe3357a.chunk.js": "/my-wedding-website/static/js/3.cbe3357a.chunk.js",
+    "static/js/3.cbe3357a.chunk.js.map": "/my-wedding-website/static/js/3.cbe3357a.chunk.js.map",
     "index.html": "/my-wedding-website/index.html",
-    "static/css/main.062acd4c.chunk.css.map": "/my-wedding-website/static/css/main.062acd4c.chunk.css.map",
-    "static/js/2.fcecddef.chunk.js.LICENSE.txt": "/my-wedding-website/static/js/2.fcecddef.chunk.js.LICENSE.txt",
+    "static/css/main.1cfa1240.chunk.css.map": "/my-wedding-website/static/css/main.1cfa1240.chunk.css.map",
+    "static/js/2.659e4803.chunk.js.LICENSE.txt": "/my-wedding-website/static/js/2.659e4803.chunk.js.LICENSE.txt",
     "static/media/crowders-mtn.ef78662c.jpg": "/my-wedding-website/static/media/crowders-mtn.ef78662c.jpg",
-    "static/media/home.scss": "/my-wedding-website/static/media/yellow-flower.3ca8c182.png"
+    "static/media/flowerIcon.scss": "/my-wedding-website/static/media/yellow-flower.3ca8c182.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8418e65.js",
-    "static/js/2.fcecddef.chunk.js",
-    "static/css/main.062acd4c.chunk.css",
-    "static/js/main.72f0bc9d.chunk.js"
+    "static/js/runtime-main.fa18c65c.js",
+    "static/js/2.659e4803.chunk.js",
+    "static/css/main.1cfa1240.chunk.css",
+    "static/js/main.1b5a08a5.chunk.js"
   ]
 }

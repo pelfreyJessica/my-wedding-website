@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/ThingsToDo/ThingsToDo.js"],"names":["ThingsToDo","props"],"mappings":"4JAAA,6BASeA,UALI,SAACC,GAAD,OACjB","file":"static/js/9.ed381c90.chunk.js","sourcesContent":["import React from \"react\";\r\n\r\nimport \"./thingsToDo.scss\";\r\n\r\nconst ThingsToDo = (props) => (\r\n  <div>\r\n  </div>\r\n);\r\n\r\nexport default ThingsToDo;"],"sourceRoot":""}

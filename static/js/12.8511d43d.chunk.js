@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[12],{43:function(e,s,t){"use strict";t.r(s),s.default=t.p+"static/media/crowders-mtn.ef78662c.jpg"}}]);
-//# sourceMappingURL=12.8511d43d.chunk.js.map

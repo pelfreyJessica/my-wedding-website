@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[18],{61:function(e,s,t){"use strict";t.r(s),s.default=t.p+"static/media/me-and-grant-proposal-square.e7ff8ff4.jpg"}}]);
-//# sourceMappingURL=18.923caa0e.chunk.js.map

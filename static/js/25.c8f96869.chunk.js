@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[25],{57:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/redbarn-couch.406193b0.jpg"}}]);
+//# sourceMappingURL=25.c8f96869.chunk.js.map

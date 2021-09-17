@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/my-wedding-website/static/css/main.479b2037.chunk.css",
-    "main.js": "/my-wedding-website/static/js/main.a4aaa12e.chunk.js",
-    "main.js.map": "/my-wedding-website/static/js/main.a4aaa12e.chunk.js.map",
+    "main.css": "/my-wedding-website/static/css/main.56d85171.chunk.css",
+    "main.js": "/my-wedding-website/static/js/main.fd51758a.chunk.js",
+    "main.js.map": "/my-wedding-website/static/js/main.fd51758a.chunk.js.map",
     "runtime-main.js": "/my-wedding-website/static/js/runtime-main.881dd203.js",
     "runtime-main.js.map": "/my-wedding-website/static/js/runtime-main.881dd203.js.map",
     "static/js/2.acb09a93.chunk.js": "/my-wedding-website/static/js/2.acb09a93.chunk.js",
@@ -78,7 +78,7 @@
     "static/css/7.fc246be8.chunk.css.map": "/my-wedding-website/static/css/7.fc246be8.chunk.css.map",
     "static/css/8.3fd8f29f.chunk.css.map": "/my-wedding-website/static/css/8.3fd8f29f.chunk.css.map",
     "static/css/9.85f5180a.chunk.css.map": "/my-wedding-website/static/css/9.85f5180a.chunk.css.map",
-    "static/css/main.479b2037.chunk.css.map": "/my-wedding-website/static/css/main.479b2037.chunk.css.map",
+    "static/css/main.56d85171.chunk.css.map": "/my-wedding-website/static/css/main.56d85171.chunk.css.map",
     "static/js/2.acb09a93.chunk.js.LICENSE.txt": "/my-wedding-website/static/js/2.acb09a93.chunk.js.LICENSE.txt",
     "static/media/anna-ruby-falls.jpg": "/my-wedding-website/static/media/anna-ruby-falls.6fa90878.jpg",
     "static/media/boquet.8dea30b1.png": "/my-wedding-website/static/media/boquet.8dea30b1.png",
@@ -102,7 +102,7 @@
   "entrypoints": [
     "static/js/runtime-main.881dd203.js",
     "static/js/2.acb09a93.chunk.js",
-    "static/css/main.479b2037.chunk.css",
-    "static/js/main.a4aaa12e.chunk.js"
+    "static/css/main.56d85171.chunk.css",
+    "static/js/main.fd51758a.chunk.js"
   ]
 }

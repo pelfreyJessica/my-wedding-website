@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[31],{51:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/fiona.fe90a41f.jpg"}}]);
+//# sourceMappingURL=31.252a2fe6.chunk.js.map

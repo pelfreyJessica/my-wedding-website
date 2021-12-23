@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[18],{52:function(e,s,i){"use strict";i.r(s),s.default=i.p+"static/media/kissByLake.09dd4e23.jpg"}}]);
-//# sourceMappingURL=18.a1adf7c5.chunk.js.map

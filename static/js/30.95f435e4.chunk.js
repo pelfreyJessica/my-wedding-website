@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[30],{50:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/farrah.40103fec.jpg"}}]);
+//# sourceMappingURL=30.95f435e4.chunk.js.map

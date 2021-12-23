@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[14],{53:function(e,s,i){"use strict";i.r(s),s.default=i.p+"static/media/anna-ruby-falls.6fa90878.jpg"}}]);
+//# sourceMappingURL=14.5ea5fcba.chunk.js.map

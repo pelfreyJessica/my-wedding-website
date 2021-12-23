@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[26],{58:function(e,s,i){"use strict";i.r(s),s.default=i.p+"static/media/redbarn-mason-jar.3947a834.jpg"}}]);
-//# sourceMappingURL=26.2a39b9d8.chunk.js.map

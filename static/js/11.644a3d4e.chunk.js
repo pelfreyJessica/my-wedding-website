@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[11],{116:function(e,i,s){"use strict";s.r(i);s(1),s(88);var t=s(0);i.default=function(e){return Object(t.jsxs)("div",{className:"thingsToDo",children:[Object(t.jsx)("h1",{children:"Things to Do"}),Object(t.jsx)("h2",{children:"Food"}),Object(t.jsx)("h2",{children:"Drinks"}),Object(t.jsx)("h2",{children:"Activities"})]})}},88:function(e,i,s){}}]);
-//# sourceMappingURL=11.644a3d4e.chunk.js.map

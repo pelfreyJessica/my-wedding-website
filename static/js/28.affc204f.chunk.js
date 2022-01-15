@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[28],{66:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/rope-bridge-walk.ff8f88d4.jpg"}}]);
+//# sourceMappingURL=28.affc204f.chunk.js.map

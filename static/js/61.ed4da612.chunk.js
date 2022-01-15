@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[61],{94:function(s,e,i){"use strict";i.r(e),e.default=i.p+"static/media/me-kiss-grant-proposal.351536f1.jpg"}}]);
-//# sourceMappingURL=61.ed4da612.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[26],{64:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/leaves-kiss.14ab3f0a.jpg"}}]);
+//# sourceMappingURL=26.adcbd8e8.chunk.js.map

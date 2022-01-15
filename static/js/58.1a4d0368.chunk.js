@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[58],{49:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/me-and-grant-proposal-square.e7ff8ff4.jpg"}}]);
+//# sourceMappingURL=58.1a4d0368.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[52],{88:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/offRoadBeach.ce03823a.jpg"}}]);
+//# sourceMappingURL=52.f4e2db77.chunk.js.map

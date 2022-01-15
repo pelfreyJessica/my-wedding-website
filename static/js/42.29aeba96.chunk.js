@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[42],{78:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/graduation.60576916.jpg"}}]);
-//# sourceMappingURL=42.29aeba96.chunk.js.map

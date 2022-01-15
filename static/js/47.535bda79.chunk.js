@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[47],{83:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/juniorYearKiss.232e9c3c.jpg"}}]);
-//# sourceMappingURL=47.535bda79.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[55],{91:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/offRoadParrot.d6c030e5.jpg"}}]);
-//# sourceMappingURL=55.18a76b90.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[45],{81:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/hikingHighShols.cd36bfd8.jpg"}}]);
-//# sourceMappingURL=45.f5e644e1.chunk.js.map

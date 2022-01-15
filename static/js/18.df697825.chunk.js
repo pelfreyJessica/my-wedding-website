@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[18],{57:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/bridge-lean.4d7be9fd.jpg"}}]);
-//# sourceMappingURL=18.df697825.chunk.js.map

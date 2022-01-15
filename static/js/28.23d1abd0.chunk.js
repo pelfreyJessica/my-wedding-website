@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[28],{66:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/rope-bridge-walk.ff8f88d4.jpg"}}]);
-//# sourceMappingURL=28.23d1abd0.chunk.js.map

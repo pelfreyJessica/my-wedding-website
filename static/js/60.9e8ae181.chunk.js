@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[60],{47:function(e,i,n){"use strict";n.r(i),i.default=n.p+"static/media/me-and-ring-proposal.ed7011fe.jpg"}}]);
+//# sourceMappingURL=60.9e8ae181.chunk.js.map

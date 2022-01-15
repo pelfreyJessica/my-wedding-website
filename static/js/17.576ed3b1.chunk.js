@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[17],{56:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/bridge-kiss.7d9d971a.jpg"}}]);
-//# sourceMappingURL=17.576ed3b1.chunk.js.map

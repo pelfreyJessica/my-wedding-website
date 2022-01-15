@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[27],{65:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/rope-bridge-forehead.a57a6ce2.jpg"}}]);
-//# sourceMappingURL=27.36695d9c.chunk.js.map

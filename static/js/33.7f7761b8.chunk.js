@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[33],{69:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/brysonCityHiking.6fa90878.jpg"}}]);
-//# sourceMappingURL=33.7f7761b8.chunk.js.map

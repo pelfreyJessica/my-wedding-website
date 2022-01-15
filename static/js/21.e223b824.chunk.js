@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[21],{60:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/creek-laugh.71fa6aa1.jpg"}}]);
+//# sourceMappingURL=21.e223b824.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[24],{62:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/lake-cheek-kiss.8bb73a5a.jpg"}}]);
+//# sourceMappingURL=24.eb07e8ae.chunk.js.map

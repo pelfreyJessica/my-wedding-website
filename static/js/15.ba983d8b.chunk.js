@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[15],{54:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/bryson-city.0d71b894.jpg"}}]);
-//# sourceMappingURL=15.ba983d8b.chunk.js.map

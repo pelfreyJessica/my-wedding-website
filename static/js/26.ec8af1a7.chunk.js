@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[26],{64:function(e,s,i){"use strict";i.r(s),s.default=i.p+"static/media/leaves-kiss.14ab3f0a.jpg"}}]);
-//# sourceMappingURL=26.ec8af1a7.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[21],{60:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/creek-laugh.71fa6aa1.jpg"}}]);
-//# sourceMappingURL=21.2edbe21e.chunk.js.map

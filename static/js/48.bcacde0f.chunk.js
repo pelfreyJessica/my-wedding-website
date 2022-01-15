@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[48],{84:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/myrtleBeach.3711ae74.jpg"}}]);
-//# sourceMappingURL=48.bcacde0f.chunk.js.map

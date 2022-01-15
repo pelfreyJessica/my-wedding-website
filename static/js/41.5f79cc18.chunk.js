@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[41],{77:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/drParty.0f86c4ef.jpg"}}]);
+//# sourceMappingURL=41.5f79cc18.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[38],{74:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/drBoat.5764043d.jpg"}}]);
+//# sourceMappingURL=38.cc38c47c.chunk.js.map

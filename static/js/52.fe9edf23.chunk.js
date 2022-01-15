@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[52],{88:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/offRoadBeach.ce03823a.jpg"}}]);
+//# sourceMappingURL=52.fe9edf23.chunk.js.map

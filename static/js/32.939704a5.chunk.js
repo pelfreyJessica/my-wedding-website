@@ -1,2 +1,0 @@
-(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[32],{48:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/holiday-party.3b3c80d9.jpg"}}]);
-//# sourceMappingURL=32.939704a5.chunk.js.map

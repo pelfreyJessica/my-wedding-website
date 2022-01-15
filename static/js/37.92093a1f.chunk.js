@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[37],{73:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/churchThanksgivingDinner.e4b334d4.jpg"}}]);
+//# sourceMappingURL=37.92093a1f.chunk.js.map

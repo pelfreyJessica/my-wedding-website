@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-wedding-website-2.1"]=this["webpackJsonpmy-wedding-website-2.1"]||[]).push([[39],{75:function(s,e,i){"use strict";i.r(e),e.default=i.p+"static/media/drChristmas.fcb9659f.jpg"}}]);
+//# sourceMappingURL=39.40ec96b4.chunk.js.map

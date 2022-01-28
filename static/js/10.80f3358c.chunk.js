@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[10],{55:function(i,n,t){"use strict";t.r(n),n.default=t.p+"static/media/anna-ruby-falls.6fa90878.jpg"}}]);
-//# sourceMappingURL=10.80f3358c.chunk.js.map

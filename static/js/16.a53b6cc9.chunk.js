@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[16],{61:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/creek-forehead.fba553d3.jpg"}}]);
-//# sourceMappingURL=16.a53b6cc9.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[22],{61:function(e,i,s){"use strict";s.r(i),i.default=s.p+"static/media/kissByLake.09dd4e23.jpg"}}]);
+//# sourceMappingURL=22.3df48f07.chunk.js.map

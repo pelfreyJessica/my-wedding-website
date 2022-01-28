@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[14],{59:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/bridge-lean.4d7be9fd.jpg"}}]);
-//# sourceMappingURL=14.79720650.chunk.js.map

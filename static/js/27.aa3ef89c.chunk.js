@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[27],{65:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/rope-bridge-forehead.a57a6ce2.jpg"}}]);
+//# sourceMappingURL=27.aa3ef89c.chunk.js.map

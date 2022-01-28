@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[13],{58:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/bridge-kiss.7d9d971a.jpg"}}]);
-//# sourceMappingURL=13.beed0449.chunk.js.map

@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[26],{71:function(i,t,n){"use strict";n.r(t),t.default=n.p+"static/media/brysonCityHiking.6fa90878.jpg"}}]);
-//# sourceMappingURL=26.242d4925.chunk.js.map

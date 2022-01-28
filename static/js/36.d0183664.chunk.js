@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[36],{72:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/brysonCityWaterfall.9236ee2c.jpg"}}]);
+//# sourceMappingURL=36.d0183664.chunk.js.map

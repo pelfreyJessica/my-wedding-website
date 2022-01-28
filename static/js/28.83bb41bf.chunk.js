@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[28],{73:function(i,t,n){"use strict";n.r(t),t.default=n.p+"static/media/brysonCityTrain.0d71b894.jpg"}}]);
-//# sourceMappingURL=28.83bb41bf.chunk.js.map

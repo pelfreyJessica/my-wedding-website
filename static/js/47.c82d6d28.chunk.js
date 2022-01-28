@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[47],{92:function(i,e,t){"use strict";t.r(e),e.default=t.p+"static/media/offRoadExursionBeach.fc9d3559.jpg"}}]);
-//# sourceMappingURL=47.c82d6d28.chunk.js.map

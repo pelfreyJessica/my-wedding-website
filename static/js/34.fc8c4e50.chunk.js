@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[34],{79:function(t,e,i){"use strict";i.r(e),e.default=i.p+"static/media/drParty.0f86c4ef.jpg"}}]);
+//# sourceMappingURL=34.fc8c4e50.chunk.js.map

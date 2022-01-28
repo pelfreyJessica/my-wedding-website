@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[20],{65:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/lake-spin.e64f895e.jpg"}}]);
+//# sourceMappingURL=20.25b147a1.chunk.js.map

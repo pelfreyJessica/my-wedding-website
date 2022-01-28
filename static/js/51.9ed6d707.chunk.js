@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[51],{96:function(i,s,t){"use strict";t.r(s),s.default=t.p+"static/media/me-kiss-grant-proposal.351536f1.jpg"}}]);
+//# sourceMappingURL=51.9ed6d707.chunk.js.map

@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[48],{84:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/myrtleBeach.3711ae74.jpg"}}]);
-//# sourceMappingURL=48.406da633.chunk.js.map

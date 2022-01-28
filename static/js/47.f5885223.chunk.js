@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[47],{83:function(i,e,s){"use strict";s.r(e),e.default=s.p+"static/media/juniorYearKiss.232e9c3c.jpg"}}]);
-//# sourceMappingURL=47.f5885223.chunk.js.map

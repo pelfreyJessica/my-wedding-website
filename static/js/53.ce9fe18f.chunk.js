@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[53],{98:function(e,i,t){"use strict";t.r(i),i.default=t.p+"static/media/redbarn-couch.406193b0.jpg"}}]);
+//# sourceMappingURL=53.ce9fe18f.chunk.js.map

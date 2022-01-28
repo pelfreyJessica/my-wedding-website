@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[32],{77:function(i,t,s){"use strict";s.r(t),t.default=s.p+"static/media/drChristmas.fcb9659f.jpg"}}]);
+//# sourceMappingURL=32.04234527.chunk.js.map

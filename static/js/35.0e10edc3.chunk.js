@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[35],{80:function(i,t,e){"use strict";e.r(t),t.default=e.p+"static/media/graduation.60576916.jpg"}}]);
+//# sourceMappingURL=35.0e10edc3.chunk.js.map

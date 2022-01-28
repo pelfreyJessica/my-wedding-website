@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[49],{85:function(e,t,i){"use strict";i.r(t),t.default=i.p+"static/media/myrtleBeachescape.f7af6b61.jpg"}}]);
-//# sourceMappingURL=49.ebc74049.chunk.js.map

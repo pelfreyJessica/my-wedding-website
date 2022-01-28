@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[37],{73:function(i,n,e){"use strict";e.r(n),n.default=e.p+"static/media/churchThanksgivingDinner.e4b334d4.jpg"}}]);
-//# sourceMappingURL=37.f83f1609.chunk.js.map

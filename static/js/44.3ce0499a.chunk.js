@@ -1,2 +1,0 @@
-(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[44],{80:function(i,t,d){"use strict";d.r(t),t.default=d.p+"static/media/graduationLaughing.2de7d4d8.jpg"}}]);
-//# sourceMappingURL=44.3ce0499a.chunk.js.map

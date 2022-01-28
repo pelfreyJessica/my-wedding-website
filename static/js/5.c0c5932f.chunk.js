@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[5],{134:function(e,n,r){},138:function(e,n,r){"use strict";r.r(n);r(1);var s=r(8),t=(r(134),r(0));n.default=function(e){return Object(t.jsxs)("div",{className:"error-404",children:[Object(t.jsx)("h1",{className:"error-message",children:"Oops, Something went wrong"}),Object(t.jsx)(s.b,{to:"/",className:"error-redirect-link",children:"Go Back to the Home Page"})]})}}}]);
+//# sourceMappingURL=5.c0c5932f.chunk.js.map

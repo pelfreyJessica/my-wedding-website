@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[48],{93:function(t,e,i){"use strict";i.r(e),e.default=i.p+"static/media/offRoadParrot.d6c030e5.jpg"}}]);
+//# sourceMappingURL=48.da945409.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpTheMiltonWedding=this.webpackJsonpTheMiltonWedding||[]).push([[54],{99:function(e,i,n){"use strict";n.r(i),i.default=n.p+"static/media/redbarn-mason-jar.3947a834.jpg"}}]);
+//# sourceMappingURL=54.b4ca1d8c.chunk.js.map
